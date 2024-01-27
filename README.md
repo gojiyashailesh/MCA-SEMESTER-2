@@ -40,8 +40,20 @@ Hello there! I'm Gojiya Shailesh, a passionate MCA AI ML student at Gujarat Univ
 
 ## Additional Information
 
-Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate on any projects. Happy coding! 🚀✨
+
+Feel free to reach out if you have any questions, suggestions, or if you'd like to discuss anything related to these projects. Collaboration opportunities are always welcome!
 
 Connect with me:
-- LinkedIn: [Gojiya Shailesh](#gojiyashailesh)
-- Email: [gojiyaraju25@gmail.com](gojiyaraju25@gmail.com)
+- LinkedIn: [Gojiya Shailesh](https://www.linkedin.com/in/gojiyashailesh/)
+- Email: [gojiyaraju25@gmail.com](mailto:gojiyaraju25@gmail.com)
+- Twitter: [@gojiyashaileshx](https://twitter.com/gojiyashaileshX)
+- Stack Overflow: [Gojiya Shailesh](https://stackoverflow.com/users/22497592/gojiya-shailesh?tab=profile)
+- Discord: mr.shailesh.ahir
+- Reddit: [Gojiya Shailesh](https://www.reddit.com/user/mr_shailesh_ahir/)
+- Instagram: [@mr.shailesh.ahir](https://www.instagram.com/mr.shailesh.ahir/)
+- Quora: [Gojiya Shailesh](https://quora.com/profile/Gojiya-Shailesh-2)
+
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+Happy coding and learning! 🚀✨
