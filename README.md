@@ -43,5 +43,5 @@ Hello there! I'm Gojiya Shailesh, a passionate MCA AI ML student at Gujarat Univ
 Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate on any projects. Happy coding! 🚀✨
 
 Connect with me:
-- LinkedIn: [Gojiya Shailesh](#)
+- LinkedIn: [Gojiya Shailesh](#gojiyashailesh)
 - Email: [gojiyaraju25@gmail.com](gojiyaraju25@gmail.com)
