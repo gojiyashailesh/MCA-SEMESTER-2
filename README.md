@@ -44,4 +44,4 @@ Feel free to reach out if you have any questions, suggestions, or if you'd like 
 
 Connect with me:
 - LinkedIn: [Gojiya Shailesh](#)
-- Email: [your.email@example.com](gojiyaraju25@gmail.com)
+- Email: [gojiyaraju25@gmail.com](gojiyaraju25@gmail.com)
